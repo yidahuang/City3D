@@ -1,1 +1,3 @@
-# City_3D
+City3D: Large-scale Building Reconstruction from Airborne LiDAR Point Clouds
+
+Source code and data coming soon ...
