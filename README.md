@@ -1,3 +1,3 @@
 City3D: Large-scale Building Reconstruction from Airborne LiDAR Point Clouds
 
-Source code and data coming soon ...
+The whole repository is moved to [here](https://github.com/tudelft3d/City3D)
