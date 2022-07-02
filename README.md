@@ -1,4 +1,4 @@
-City3D: Large-scale Building Reconstruction from Airborne LiDAR Point Clouds
+### [City3D: Large-scale Building Reconstruction from Airborne LiDAR Point Clouds](https://github.com/tudelft3d/City3D)
 
 ```bibtex
 @Article{HuangCity3d_2022,
@@ -13,4 +13,4 @@ City3D: Large-scale Building Reconstruction from Airborne LiDAR Point Clouds
 
 ```
 
-The whole repository is moved to [here](https://github.com/tudelft3d/City3D)
+### The repository has been moved [here](https://github.com/tudelft3d/City3D).
